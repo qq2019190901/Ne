@@ -3,13 +3,8 @@ hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk1.xiaofeixia.cyou:2052/?insecure=1&
 hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk2.xiaofeixia.cyou:2052/?insecure=1&sni=hk2.xiaofeixia.cyou#%E9%A6%99%E6%B8%AF02
 hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk1.xiaofeixia.cyou:2052/?insecure=1&sni=hk1.xiaofeixia.cyou#%E9%A6%99%E6%B8%AF03
 hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk2.xiaofeixia.cyou:2052/?insecure=1&sni=hk2.xiaofeixia.cyou#%E9%A6%99%E6%B8%AF04
-hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk1.xiaofeixia.cyou:2052/?insecure=1&sni=hk1.xiaofeixia.cyou#%E9%A6%99%E6%B8%AF05
 hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@yd1.xiaofeixia.cyou:2052/?insecure=1&sni=yd1.xiaofeixia.cyou#%E5%8D%B0%E5%BA%A601
 hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@yd1.xiaofeixia.cyou:2052/?insecure=1&sni=yd1.xiaofeixia.cyou#%E5%8D%B0%E5%BA%A602
 hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@rb1.xiaofeixia.cyou:2052/?insecure=1&sni=rb1.xiaofeixia.cyou#%E6%97%A5%E6%9C%AC01
 hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@rb2.xiaofeixia.cyou:2052/?insecure=1&sni=rb2.xiaofeixia.cyou#%E6%97%A5%E6%9C%AC02
-hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@xjp2.xiaofeixia.cyou:2052/?insecure=1&sni=xjp2.xiaofeixia.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A102
-hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@mg1.xiaofeixia.cyou:2052/?insecure=1&sni=mg1.xiaofeixia.cyou#%E7%BE%8E%E5%9B%BD01
 hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@mg1.xiaofeixia.cyou:2052/?insecure=1&sni=mg1.xiaofeixia.cyou#%E7%BE%8E%E5%9B%BD02
-hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk1.xiaofeixia.cyou:2052/?insecure=1&sni=hk1.xiaofeixia.cyou#%E5%8F%B0%E6%B9%BE01
-hy2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk1.xiaofeixia.cyou:2052/?insecure=1&sni=hk1.xiaofeixia.cyou#%E5%8F%B0%E6%B9%BE02
